@@ -3,7 +3,7 @@
 #include "fsus"
 #include <cstream>
 
-void (FSTR size, fOut file, DYNAMIC dyn)
+void functionCD (FSTR size, fOut file, DYNAMIC dyn)
 
 main()
 {
