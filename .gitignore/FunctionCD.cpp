@@ -13,7 +13,7 @@ main()
 
 
 // ... con function of CD
-void (FSTR size, fOut file, DYNAMIC dyn)
+void functionCD (FSTR size, fOut file, DYNAMIC dyn)
 {
  size[] = {C, D, , B , A , F}
  dout.comparison = CDpath("//used exe // used dll "); // used any 
