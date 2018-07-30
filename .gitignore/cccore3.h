@@ -53,29 +53,29 @@ struct Dta {
   dir.io();
   stoi.my<int xoxo><fs::path("")>constrop;
   // mostly 
-  DWORD X = 0x0915F5;
-  DWORD agnl = 0x095156;
-  DWORD y = 0x0915F5;
-  DWORD event = 0x095156;
-  DWORD xangel = 0x0915F5;
-  DWORD Yangel = 0x095156;
-  DWORD Xpos = 0x0915F5;
-  DWORD Ypos = 0x095156;
-  DWORD zconstor = 0x0915F5;
-  DWORD YmotoCD = 0x095156;
+  DWORD xxfiles = 0x0915F35;
+  DWORD angelof = 0x0951256;
+  DWORD yellowAsm = 0x06915F5;
+  DWORD event = 0x0951756;
+  DWORD xangel = 0x0935F5;
+  DWORD Yangel = 0x065156;
+  DWORD StrapCupture = 0x03915F5;
+  DWORD Post = 0x0951566;
+  DWORD Copyier = 0x09165F5;
+  DWORD Intrupt = 0x0951756;
   // on
-  DWORD X = 0x0915F5;
-  DWORD Y = 0x095156;
-  DWORD X = 0x0915F5;
-  DWORD Y = 0x095156;
-  DWORD X = 0x0915F5;
-  DWORD Y = 0x095156;
-  DWORD X = 0x0915F5;
-  DWORD Y = 0x095156;
-  DWORD Y = 0x095156;
-  DWORD Y = 0x095156;
-  DWORD X = 0x0915F5;
-  DWORD Y = 0x095156;
+  DWORD SizeofEntry = 0x0925F5;
+  DWORD YExploding = 0x095176;
+  DWORD XExpolding = 0x091515;
+  DWORD TryAsm = 0x095166;
+  DWORD StopAsm = 0x091555;
+  DWORD MoveA = 0x095166;
+  DWORD StopA = 0x0915D5;
+  DWORD tryA = 0x095116;
+  DWORD underfunc = 0x095756;
+  DWORD stopfunc = 0x095356;
+  DWORD tmstop = 0x0914F5;
+  DWORD movecpyes = 0x091156;
   
 }
 //contin
