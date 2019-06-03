@@ -79,7 +79,7 @@ protected:
 };
 
 int main(){
-	NDTEvent Event();
+	NDTEvent::NDTEvent();
 	
 	system("puase");
 }
