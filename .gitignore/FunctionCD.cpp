@@ -1,30 +1,50 @@
-#include "CDfunctin"
-#include "runtimezero"
-#include "fsus"
-#include <cstream>
+#include <iostream>
 
-void functionCD (FSTR size, fOut file, DYNAMIC dyn)
+using std::cout;
+using std::endl;
 
-main()
+bool boolean_f(int x, int y)
 {
-// still not add 
 
+	return (x == y);
 }
 
-
-// ... con function of CD
-void functionCD (FSTR size, fOut file, DYNAMIC dyn)
+void bf_check()
 {
- size[] = {C, D, , B , A , F}
- dout.comparison = CDpath("//used exe // used dll "); // used any 
- file = dout.comparison(1);
- loop(0);
- T3HELPER startip;
- T3helperP startup;
- if(dout.comparison = dout.startip || dout.comparison = dout.startup)
- {
- fillpath("debug");
- makenew("CD/desktop");
- // cont  . . . .
- }
+	cout << "Enter an Integer: ";
+	int x;
+	std::cin >> x;
+
+	cout << "Enter another Integer: ";
+	int y;
+	std::cin >> y;
+	cout << std::boolalpha;
+
+	/*cout << x << " and " << y << " are equal?: ";
+	cout << boolean_f(x, y) << "\n";*/
+	if (boolean_f(x, y)) { cout<<"true"<<"\n"; }
+	else { cout<<"false"<<"\n"; }
+	
+}
+
+int main()
+{
+	
+	cout << "int:\t" << sizeof(int) << " Bytes" <<endl;
+	cout << "bool:\t" << sizeof(bool) << " Bytes" <<endl;
+	cout << "float:\t" << sizeof(float) << " Bytes" <<endl;
+	cout << "short:\t" << sizeof(short) << " Bytes" <<endl;
+
+	cout << std::boolalpha;
+  //cout<< "IsBool:\t" << "   " << true << "\n";
+
+	bool b1 = 10, b2 = 0;
+
+	cout << "b1_Val:\t" << b1 << "\n";
+	cout << "b2_Val:\t" << b2 << "\n";
+
+	bf_check();
+
+	system("pause");
+	return 0;
 }
