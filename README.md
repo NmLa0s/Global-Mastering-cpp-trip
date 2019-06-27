@@ -19,27 +19,29 @@ It doesn't make sense for one job as soon as it will contain a lot of listed-pro
 
 
 # knowledge-base:
-1-  Empty
-2-  Empty
-3-  Empty
-4-  Empty
-5-  Empty
-6-  Empty
-7-  Empty
-10- Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
 
 
 
 
 # advanced suggested tricks & good design:
--> Empty
--> Empty
--> Empty
--> Empty
--> Empty
--> Empty
--> Empty
--> Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
+* Empty
 
 
 
