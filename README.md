@@ -1,7 +1,7 @@
 # Mastering for our project as a solid base, usually takes time till 2020-2021.
 
 This project is some knowledge based about getting into the right way to master-c++,
-It doesn't make sense for one job as soon as it will contain a lot of listed-projects works together, it is expected that this solid base will be finished between 2020-2021 as it can be.
+ It doesn't make sense for one job as soon as it will contain a lot of listed-projects works together,  It is expected that this solid base will be finished between 2020-2021 as it can be.
 
 
 # Concept-area:
